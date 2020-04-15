@@ -108,6 +108,11 @@ p {
   display: block;
 }
 
+.message--chatbox {
+  font-style: oblique;
+  color: red;
+}
+
 @-webkit-keyframes fadeIn {
   from {
     opacity: 0;
